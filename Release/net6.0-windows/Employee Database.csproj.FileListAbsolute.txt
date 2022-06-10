@@ -1,0 +1,23 @@
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\Employee Database.csproj.AssemblyReference.cache
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\Add_Worker_Window.g.cs
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\App.g.cs
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\Employee Database_MarkupCompile.cache
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\Employee Database_MarkupCompile.lref
+C:\Users\tardi\source\repos\Employee Database\bin\Release\net6.0-windows\Employee Database.exe
+C:\Users\tardi\source\repos\Employee Database\bin\Release\net6.0-windows\Employee Database.deps.json
+C:\Users\tardi\source\repos\Employee Database\bin\Release\net6.0-windows\Employee Database.runtimeconfig.json
+C:\Users\tardi\source\repos\Employee Database\bin\Release\net6.0-windows\Employee Database.dll
+C:\Users\tardi\source\repos\Employee Database\bin\Release\net6.0-windows\Employee Database.pdb
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\Add_Worker_Window.baml
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\Employee Database.g.resources
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\Employee Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\Employee Database.AssemblyInfoInputs.cache
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\Employee Database.AssemblyInfo.cs
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\Employee Database.csproj.CoreCompileInputs.cache
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\Employee Database.dll
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\refint\Employee Database.dll
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\Employee Database.pdb
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\Employee Database.genruntimeconfig.cache
+C:\Users\tardi\source\repos\Employee Database\obj\Release\net6.0-windows\ref\Employee Database.dll
